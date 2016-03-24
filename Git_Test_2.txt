@@ -1,3 +1,4 @@
 C2   step3 
 C4   step5
 C5   step6
+C6   step7
